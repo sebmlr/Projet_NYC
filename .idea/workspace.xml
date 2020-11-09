@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c8496ae-a609-439a-aaf8-6894578a7119" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jspYLi2VX93ssjyv8yxL3KgkZp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c8496ae-a609-439a-aaf8-6894578a7119" name="Default Changelist" comment="" />
+      <created>1604602700736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604602700736</updated>
+      <workItem from="1604602702470" duration="358000" />
+      <workItem from="1604603725273" duration="72000" />
+      <workItem from="1604603804448" duration="211000" />
+      <workItem from="1604704225840" duration="5886000" />
+      <workItem from="1604746337677" duration="189000" />
+      <workItem from="1604746533707" duration="52000" />
+      <workItem from="1604746594184" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1128" y="508" key="#Custom_Plugin_Repositories" timestamp="1604746631308">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="1128" y="508" key="#Custom_Plugin_Repositories/-1527.-1269.1018.1785/-4242.-87.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1604746631308" />
+    <state x="479" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604746583002">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="479" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1527.-1269.1018.1785/-4242.-87.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1604746583002" />
+    <state x="805" y="316" key="FileChooserDialogImpl" timestamp="1604746646491">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="805" y="316" key="FileChooserDialogImpl/-1527.-1269.1018.1785/-4242.-87.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1604746646491" />
+    <state x="511" y="96" width="1473" height="1026" key="SettingsEditor" timestamp="1604746649283">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="511" y="96" width="1473" height="1026" key="SettingsEditor/-1527.-1269.1018.1785/-4242.-87.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1604746649283" />
+    <state x="633" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604705199502">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="633" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1527.-1269.1018.1785/-4242.-87.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1604705199502" />
+  </component>
+</project>
